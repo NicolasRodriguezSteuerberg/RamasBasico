@@ -8,5 +8,8 @@ public class Rama {
         int numero2 = 11;
         int numero3 = 12;
 
+        System.out.println("Que bonito este programa");
+
+        int suma = numero1 + numero2 + numero3;
     }
 }
