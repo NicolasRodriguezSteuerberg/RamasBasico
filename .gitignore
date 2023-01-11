@@ -1,0 +1,9 @@
+﻿.idea
+out
+build
+nbproject
+test
+build.xml
+manifest.mf
+dist
+.iml
