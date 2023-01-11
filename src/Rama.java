@@ -9,5 +9,7 @@ public class Rama {
         int numero3 = 2;
 
         System.out.println("Te cambio las cosas muajaja");
+
+        int resta = numero1 + numero2 + numero3;
     }
 }
