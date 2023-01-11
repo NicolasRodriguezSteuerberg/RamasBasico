@@ -4,9 +4,10 @@ public class Rama {
 
         System.out.println("2 commit");
 
-        int numero1 = 10;
-        int numero2 = 11;
-        int numero3 = 12;
+        int numero1 = 23;
+        int numero2 = 14;
+        int numero3 = 2;
 
+        System.out.println("Te cambio las cosas muajaja");
     }
 }
